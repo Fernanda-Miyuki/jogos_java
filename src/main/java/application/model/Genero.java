@@ -1,4 +1,5 @@
 package application.model;
+//começando pelas entidades com menos dependência
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
